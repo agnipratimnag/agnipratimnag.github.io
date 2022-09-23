@@ -9,5 +9,5 @@ author_profile: true
 
 Some stuff that might be of use to you.
 
-- MA 109
+- [MA 109](/ma109/)
 - PH 207
