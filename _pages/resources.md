@@ -7,4 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Hi. I've got some stuff for MA109 and PH207.
+Some stuff that might be of use to you.
+
+- MA 109
+- PH 207
