@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-If you're an IITB student, you might find these useful
+Some stuff that might be of use to you
 
 - [MA 109: Calculus I](/ma109)
 - [PH 207: Introduction to Special Theory of Relativity](/ph207)
