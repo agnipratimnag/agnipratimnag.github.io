@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Agnipratim, but call me Agni. I'm a second year undergraduate student at the Department of Physics, IIT Bombay. I am also pursuing a Minor in Computer Science. I'm still figuring out my academic interests, a bit confused in that sphere to be honest. The only thing I **really** like right now is Special Relativity.
+Hi there, I'm Agnipratim, a sophomore student at the Department of Physics, IIT Bombay. I am also pursuing a Minor in Computer Science. I really like understanding stuff at a very intuitive level, so much so that I could boil any idea down to some very easy to grasp thoughts. I always try my best to implement that in everything I learn, although it is quite difficult sometimes. At the moment I do not have any particular academic interests, still "exploring" everything that is out there. 
 
 When I'm not being crushed by coursework, I like to spend time playing football, listening to music, strumming songs on my guitar or gaming with my friends!
 
