@@ -10,7 +10,7 @@ permalink: /gaming/
 
 Videogames were my first love. When I was a kid, every vacation meant that my family and I would visit my grandparents. That's where my uncle introduced me to what an Xbox 360 was, and it was no going back from there. It started with Battlefield 1942, Viva Pinata and Top Spin. I was around 7 years old at the time, so I understand my mother's frustration at me being obsessed with a World War II shooter, but oh well. After many months of annoying my parents, they finally got me my first gaming console, an Xbox One. A milestone.<br>
 
-I was 11 at the time, got started with some kiddie games like LEGO Marvel Superheroes, Forza Horizon 2 and Assassin's Creed. It was around this time that I set up [my YouTube channel](https://www.youtube.com/channel/UC6wgtLI9vE8KaSETq1AS2pw) . I have a video with almost 170,000 views and that is one of my proudest achievements. YouTube did pay me around 2500 INR for helping them generate ad revenue. A phase of life in which I truly felt like the coolest kid in town, an actual 'Youtuber'. It was crazy fun boasting about this to my classmates.<br>
+I was 11 at the time, got started with some kiddie games like LEGO Marvel Superheroes, Forza Horizon 2 and Assassin's Creed. It was around this time that I set up [my YouTube channel](https://www.youtube.com/channel/UC6wgtLI9vE8KaSETq1AS2pw). I have a video with almost 170,000 views and that is one of my proudest achievements. YouTube did pay me around 2500 INR for helping them generate ad revenue. A phase of life in which I truly felt like the coolest kid in town, an actual 'Youtuber'. It was crazy fun boasting about this to my classmates.<br>
 
 ## Levelling up
 
