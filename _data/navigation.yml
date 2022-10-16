@@ -3,9 +3,6 @@ main:
   - title: "Resources"
     url: /resources/
     
-  - title: "Projects"
-    url: /projects/
-
   - title: "Music"
     url: /music/    
 
