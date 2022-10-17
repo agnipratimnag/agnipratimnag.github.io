@@ -6,8 +6,6 @@ permalink: /hepp/
 
 {% include base_path %}
 
-# HyperEntropicPingPong
-
 ### A beginner ping pong game made using html and javascript. Something a very idle freshie myself and [Himank](https://www.linkedin.com/in/himank-gupta-069865190/) put together for DevCom’s GameDev Hackathon 2022.
 
 It's ping pong, but not really.
