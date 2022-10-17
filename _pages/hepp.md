@@ -6,7 +6,7 @@ permalink: /hepp/
 
 {% include base_path %}
 
-### A beginner ping pong game made using html and javascript. Something a very idle freshie myself and [Himank](https://www.linkedin.com/in/himank-gupta-069865190/) put together for DevCom’s GameDev Hackathon 2022.
+### A beginner ping pong game made using HTML and JavaScript. Something a very idle freshie myself and [Himank](https://www.linkedin.com/in/himank-gupta-069865190/) put together for DevCom’s GameDev Hackathon 2022.
 
 It's ping pong, but not really.
 
@@ -20,4 +20,4 @@ The obstacles' locations randomise every now and then and there's buttons for yo
 
 Happy bouncing!
 
-GitHub Pages link: [https://ganinga.github.io/HyperEntropicPingPong/](https://ganinga.github.io/HyperEntropicPingPong/)
+GitHub Pages link: [https://ganinga.github.io/HyperEntropicPingPong/](https://ganinga.github.io/HyperEntropicPingPong/) (My old GitHub account, don't mind)
