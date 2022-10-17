@@ -13,7 +13,7 @@ Some cool stuff I have worked on or am currently working on!
 
 [ViBe Basket](vibebasket.md)
 
-![vibebasket.png](vibebasket.png)
+![vibebasket.png](/images/vibebasket.png)
 
 [HyperEntropicPingPong](hepp.md)
 
