@@ -17,4 +17,4 @@ Some cool stuff I have worked on or am currently working on!
 
 [HyperEntropicPingPong](hepp.md)
 
-![hepp.jpg](hepp.jpg)
+![hepp.jpg](/images/hepp.jpg)
