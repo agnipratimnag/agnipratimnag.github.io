@@ -9,12 +9,12 @@ author_profile: true
 
 Some cool stuff I have worked on or am currently working on!
 
-[ViBe Basket](vibebasket.md)
+[ViBe Basket](/vibebasket/)
 
-[![vibebasket.png](/images/vibebasket3.png)](vibebasket.md)
+[![vibebasket.png](/images/vibebasket3.png)](/vibebasket/)
 
 ---
 
-[HyperEntropicPingPong](hepp.md)
+[HyperEntropicPingPong](/hepp/)
 
-[![hepp.jpg](/images/hepp.jpg)](hepp.md)
+[![hepp.jpg](/images/hepp.jpg)](/hepp/)
