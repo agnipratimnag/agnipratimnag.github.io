@@ -21,7 +21,7 @@ Some cool stuff I have worked on or am currently working on!
 
 ---
 
-[Dependence of kinetic variables on charge asymmetry in proton-proton collisions at 13 TeV](/ph219courseproject/)
+[Dependence of kinematic variables on charge asymmetry in proton-proton collisions at 13 TeV](/ph219courseproject/)
 
 [![hepp.jpg](/images/Production-of-a-large-p-T-pion-in-a-hard-pp-collision.jpg)](/ph219courseproject)
 
