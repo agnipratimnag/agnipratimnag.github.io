@@ -6,5 +6,5 @@ permalink: /ph219courseproject/
 
 {% include base_path %}
 
-- [Project Report](/files/resources/ph219courseproject.pdf) 
+- [Project Report](/files/ph219courseproject.pdf) 
 - [Code Repository](https://github.com/agnipratimnag/DAI-PH219-Project-Group-1-2022) 
