@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Dependence of kinematic variables on charge asymmetry in proton-proton collisions at 13 TeV"
+title: "Dependence of kinematic variables on charge asymmetry in proton-proton collisions at 13 TeV."
 permalink: /ph219courseproject/
 ---
 
