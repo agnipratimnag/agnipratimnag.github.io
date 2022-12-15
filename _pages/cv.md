@@ -6,6 +6,6 @@ permalink: /cv/
 
 {% include base_path %}
 
-- [Curriculum Vitae](/files/cv.pdf)
+- [Curriculum Vitae](/files/curriculumvitae.pdf)
 
 
