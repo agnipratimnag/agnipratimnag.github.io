@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-[![ma109.png](/images/ma109.png)](/ma109)
+[![109.png](/images/109.png)](/ma109)
 
 ---
 
