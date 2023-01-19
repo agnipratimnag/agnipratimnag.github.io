@@ -11,7 +11,7 @@ author_profile: true
 
 ---
 
-[![111(1).png](/images/111(1).png)](/ma111)
+[![111.png](/images/111.png)](/ma111)
 
 ---
 - [PH 207: Introduction to Special Theory of Relativity](/ph207)
