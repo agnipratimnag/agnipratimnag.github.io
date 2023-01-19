@@ -17,5 +17,5 @@ I really like understanding stuff at a very intuitive level, so much so that I c
 - Quantum Computation and Information
 - Algorithms
 
-I also take some time out from my academic schedule to work on an application my friends and I are building, which is aimed at being an AI driven logistic planning tool to simplify the process of planning outings for everyone. When I’m not being crushed by coursework, I like to spend time playing football, listening to music, strumming songs on my guitar or gaming with my friends! I spend most of my monthly allowance on food and orange is my favorite color.
+I also take some time out from my academic schedule to work on an application my friends and I are building, which is aimed at being an AI driven logistic planning tool to simplify the process of planning outings for everyone. When I’m not being crushed by coursework, I like to spend time playing football, listening to music, strumming songs on my guitar or gaming with my friends!
 
