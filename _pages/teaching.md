@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-# Math
+### Math
 
 [![109.png](/images/109.png)](/ma109)
 
@@ -21,7 +21,7 @@ author_profile: true
 
 ---
 
-# Physics
+### Physics
 
 [![207.png](/images/207.png)](/ph207)
 
