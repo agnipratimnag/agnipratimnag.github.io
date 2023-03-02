@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+# Math
+
 [![109.png](/images/109.png)](/ma109)
 
 ---
@@ -15,8 +17,14 @@ author_profile: true
 
 ---
 
+[![ma106.png](/images/ma106.png)](/ma106)
+
+---
+
+# Physics
+
 [![207.png](/images/207.png)](/ph207)
 
 ---
 
-[![ma106.png](/images/ma106.png)](/ma106)
+[![ph111.png](/images/ph111.png)](/ph111)
