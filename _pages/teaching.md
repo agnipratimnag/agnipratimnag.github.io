@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+### Computer Science
+
+[![228.png](/images/228.png)](/cs228)
+
 ### Math
 
 [![109.png](/images/109.png)](/ma109)
